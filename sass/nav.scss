@@ -1,0 +1,57 @@
+nav{
+    color:black;
+    background:$base-color;
+  }
+
+  ul{
+display:inline-block;
+position: relative;
+
+  } 
+  
+  
+  li{
+     list-style: none;
+     display:inline-block;
+     text-align:center;
+     margin-right: 10px;
+  }
+
+   .toleft{
+     position:absolute;
+     left:0;
+ 
+   }
+   
+
+   .toRight1{
+    
+     position:absolute;
+     left:63rem;
+  }
+
+  .toRight2{
+    
+     position:absolute;
+     left:70rem;
+
+  }
+  .toRight3{
+     
+     position:absolute;
+   left:78rem;
+
+
+  }
+  
+
+  a{
+     text-decoration: none;
+  }
+  
+
+  
+  .menu-home{
+ font-size: 30px;
+ 
+  }

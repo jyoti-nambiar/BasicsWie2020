@@ -1,0 +1,24 @@
+ *{
+padding:0;
+margin:0;
+box-sizing: border-box;
+
+   }
+@import "./variable.scss";
+
+   body{
+      margin-left: 10px;;
+   }
+   
+   
+   @import "./nav.scss";
+  
+   @import "./header.scss";
+
+   /* Flex */
+@import "./card.scss";
+   
+
+    @import "./footer.scss";     
+
+        
